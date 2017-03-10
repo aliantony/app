@@ -1,1 +1,0 @@
-function demo(o){alert("--------\r\n"+o+"\r\n--------")}function MyDemo(o,e){this.name=o,this.sex=e}demo("Hi"),MyDemo.prototype=demo.prototype;

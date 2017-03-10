@@ -6,3 +6,7 @@ body a{
 div{
 	background:red;
 }
+
+.demo {
+    display:flex;
+}
