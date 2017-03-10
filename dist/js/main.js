@@ -1,6 +1,6 @@
 // a.js
 function demo (msg) {
-    alert('--------\r\n' + msg + '\r\n--------')
+    //alert('--------\r\n' + msg + '\r\n--------')
 }
 
 demo('Hi')
@@ -12,6 +12,15 @@ function MyDemo(name,sex)
 }
 
 MyDemo.prototype = demo.prototype;
+function al(){
+	var m = document.getElementById("main");
+    m.style.width="500px";
+	m.style.height="300px";
+	m.background="green";
+}
+window.onload=function(){
+	al();
+}
 /**
  * @author miaov
  */

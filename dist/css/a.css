@@ -1,1 +1,1 @@
-body a{color:pink}div{background:red}.demo{display:-webkit-box;display:-ms-flexbox;display:flex}
+body a{color:pink}div{background:red}.demo{display:-webkit-box;display:-ms-flexbox;display:flex}.container{background:#000;width:100px;height:100px}.a{width:300px;height:100px;float:left;filter:alpha(opacity:30);opacity:.3;background:#00f;border-radius:1px solid red}
